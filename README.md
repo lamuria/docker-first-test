@@ -1,7 +1,7 @@
 # docker-first-test
 Just a node server running on docker
 
-To run follow this steps:
+To run the node server on docker follow this steps:
 
 `docker run -p 49160:8080 -d lamuria/docker-node-server`
 
